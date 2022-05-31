@@ -1,0 +1,22 @@
+{
+  "users" : [
+    {
+      "id": "1",
+      "username": "raygilbert",
+      "password": "Firstuser123",
+      "email": "raygilbet123@gmail.com",
+      "imgUrl": "assets/profile_pics/person_ray.jpeg",
+      "firstName": "Ray",
+      "lastname": "Gilbert"
+    },
+    {
+      "id": "2",
+      "username": "stefgonzales",
+      "password": "Seconduser123",
+      "email": "stefgonzales123@gmail.com",
+      "imgUrl": "assets/profile_pics/person_stef.jpeg",
+      "firstName": "Steffani",
+      "lastname": "Gonzales"
+    }
+  ]
+}

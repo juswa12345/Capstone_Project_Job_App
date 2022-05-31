@@ -1,0 +1,134 @@
+{
+    "popularjobs":[
+        {
+            "id": "1",
+            "title": "Google",
+            "imgUrl": "assets/icons/google.png",
+            "location": "New York, USA",
+            "category": {
+                "UI/UX Design": {
+                    "Junior Ux Designer": 1400,
+                    "Senior Ux Designer": 1200,
+                    "Graphics Designer": 1100
+                },
+                "Back End Developer": {
+                    "Senior Developer": 2400,
+                    "Junior Developer": 2200
+                },
+                "Data Analyst": {
+                    "Senior Analyst": 1500,
+                    "Junior Analyst": 1300
+                }
+            },
+            "job type": [
+                "Full Time",
+                "Part Time",
+                "Contract"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Facebook",
+            "imgUrl": "assets/icons/facebook.png",
+            "location": "Toronto, Canada",
+            "category": {
+                "UI/UX Design": {
+                    "Junior Ux Designer": 4500,
+                    "Senior Ux Designer": 4000,
+                    "Graphics Designer": 3000
+                },
+                "Back End Developer": {
+                    "Senior Developer": 5400,
+                    "Junior Developer": 5200
+                },
+                "Data Analyst": {
+                    "Senior Analyst": 3500,
+                    "Junior Analyst": 3300
+                }
+            },
+            "job type": [
+                "Full Time",
+                "Part Time",
+                "Contract"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Dribble",
+            "imgUrl": "assets/icons/dribble.png",
+            "location": "New York, USA",
+            "category": {
+                "UI/UX Design": {
+                    "Junior Ux Designer": 1400,
+                    "Senior Ux Designer": 1200,
+                    "Graphics Designer": 1100
+                },
+                "Back End Developer": {
+                    "Senior Developer": 2400,
+                    "Junior Developer": 2200
+                },
+                "Data Analyst": {
+                    "Senior Analyst": 1500,
+                    "Junior Analyst": 1300
+                }
+            },
+            "job type": [
+                "Full Time",
+                "Part Time",
+                "Contract"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Spotify",
+            "imgUrl": "assets/icons/spotify.png",
+            "location": "New York, USA",
+            "category": {
+                "UI/UX Design": {
+                    "Junior Ux Designer": 1100,
+                    "Senior Ux Designer": 1200,
+                    "Graphics Designer": 1000
+                },
+                "Back End Developer": {
+                    "Senior Developer": 2300,
+                    "Junior Developer": 2000
+                },
+                "Data Analyst": {
+                    "Senior Analyst": 1700,
+                    "Junior Analyst": 1400
+                }
+            },
+            "job type": [
+                "Full Time",
+                "Part Time",
+                "Contract"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Netflix",
+            "imgUrl": "assets/icons/netflix.png",
+            "location": "Toronto, Canada",
+            "category": {
+                "UI/UX Design": {
+                    "Junior Ux Designer": 3400,
+                    "Senior Ux Designer": 2200,
+                    "Graphics Designer": 1800
+                },
+                "Back End Developer": {
+                    "Senior Developer": 4400,
+                    "Junior Developer": 2500
+                },
+                "Data Analyst": {
+                    "Senior Analyst": 3500,
+                    "Junior Analyst": 3300
+                }
+            },
+            "job type": [
+                "Full Time",
+                "Part Time",
+                "Contract"
+            ]
+        }
+    ]
+}
