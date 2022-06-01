@@ -1,0 +1,42 @@
+{
+  "filter": [
+    {
+      "category": {
+        "UI/UX Design": [
+          "Junior Ux Designer",
+          "Senior Ux Designer",
+          "Graphics Designer"
+        ],
+        "Back End Developer": [
+          "Senior Developer",
+          "Junior Developer"
+        ],
+        "Data Analyst": [
+          "Senior Analyst",
+          "Junior Analyst"
+        ]
+      },
+      "job type": [
+        "Full Time",
+        "Part Time",
+        "Contract"
+      ],
+      "salary": [
+        1000,
+        1200,
+        1500,
+        2000,
+        2500,
+        3000,
+        4000,
+        5000
+      ],
+      "location": [
+        "Canada",
+        "USA",
+        "China",
+        "Switzerland"
+      ]
+    }
+  ]
+}

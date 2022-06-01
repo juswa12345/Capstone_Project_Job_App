@@ -1,0 +1,104 @@
+{
+  "recent_jobs":[
+    {
+      "id": "1",
+      "title": "Google",
+      "imgUrl": "assets/icons/google.png",
+      "location": "New York, USA",
+      "category": "UI/UX Design",
+      "job type":  "Full Time",
+      "salary": 1400,
+      "time posted": "1000"
+    },
+    {
+      "id": "2",
+      "title": "Facebook",
+      "imgUrl": "assets/icons/facebook.png",
+      "location": "Toronto, Canada",
+      "category": "Back End Developer",
+      "job type": "Contract",
+      "salary": 1700,
+      "time posted": "300"
+    },
+    {
+      "id": "3",
+      "title": "Dribble",
+      "imgUrl": "assets/icons/dribble.png",
+      "location": "New York, USA",
+      "category": "Data Analyst",
+      "job type": "Full Time",
+      "salary": 1500,
+      "time posted": "2"
+    },
+    {
+      "id": "4",
+      "title": "Spotify",
+      "imgUrl": "assets/icons/spotify.png",
+      "location": "New York, USA",
+      "category": "UI/UX Design",
+      "job type": "Full Time",
+      "salary": 2400,
+      "time posted": "120"
+    },
+    {
+      "id": "5",
+      "title": "Netflix",
+      "imgUrl": "assets/icons/netflix.png",
+      "location": "Toronto, Canada",
+      "category": "Back End Developer",
+      "job type": "Full Time",
+      "salary": 1500,
+      "time posted": "350"
+    },
+    {
+      "id": "6",
+      "title": "Google",
+      "imgUrl": "assets/icons/google.png",
+      "location": "New York, USA",
+      "category": "UI/UX Design",
+      "job type":  "Full Time",
+      "salary": 2500,
+      "time posted": "3000"
+    },
+    {
+      "id": "7",
+      "title": "Facebook",
+      "imgUrl": "assets/icons/facebook.png",
+      "location": "Toronto, Canada",
+      "category": "Back End Developer",
+      "job type": "Contract",
+      "salary": 2400,
+      "time posted": "3700"
+    },
+    {
+      "id": "8",
+      "title": "Dribble",
+      "imgUrl": "assets/icons/dribble.png",
+      "location": "New York, USA",
+      "category": "Data Analyst",
+      "job type": "Full Time",
+      "salary": 1600,
+      "time posted": "25"
+    },
+    {
+      "id": "9",
+      "title": "Spotify",
+      "imgUrl": "assets/icons/spotify.png",
+      "location": "New York, USA",
+      "category": "UI/UX Design",
+      "job type": "Full Time",
+      "salary": 1400,
+      "time posted": "60"
+    },
+    {
+      "id": "10",
+      "title": "Netflix",
+      "imgUrl": "assets/icons/netflix.png",
+      "location": "Toronto, Canada",
+      "category": "Back End Developer",
+      "job type": "Full Time",
+      "salary": 1400,
+      "time posted": "450"
+    }
+  ]
+}
